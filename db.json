@@ -1,19 +1,19 @@
 {
   "admins": [
     {
-      "id": 1,
-      "password": "123456",
-      "email": "ankit@gmail.com"
+    "id":"ankit@gmail.com",
+"password":"123456",
+"name":"Ankit"
     },
     {
-      "id": 1,
+      "id": "kalyan@gmail.com",
       "password": "123456",
-      "email": "kalyan@gmail.com"
+      "name":"kalyan"
     },
     {
-      "id": 1,
+      "id": "shubam@gmail.com",
       "password": "123456",
-      "email": "shubam@gmail.com"
+      "name": "shubam"
     }
   ],
   "data": [
